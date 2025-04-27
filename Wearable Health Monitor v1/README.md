@@ -55,6 +55,7 @@ The Arduino calculates body temperature based on the voltage and triggers a feve
 
 ## Author
 Created with ❤️ by Kevin Bekoe  
+Link to simulate on Wokwi wokwi.com/projects/429380018550649857
 
 ## 📜 License
 This project is open-source and free to use for educational purposes.
